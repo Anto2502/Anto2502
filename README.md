@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Anto2502
+- 👀 I’m interested in video game industry
+- 🌱 I’m currently studying in Institution Saint-Pierre
+- 💞️ I’m looking to collaborate on Galaxy Projet (3DS Super Mario Galaxy)
+- 📫 You can't reach me...
