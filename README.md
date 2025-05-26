@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Anto2502
 - 👀 I’m interested in video game industry
-- 🌱 I’m currently studying in Institution Saint-Pierre
-- 💞️ I’m looking to collaborate on Galaxy Projet (3DS Super Mario Galaxy)
-- 📫 You can't reach me...
+- 🌱 I’m currently studying in Institut Lemonnier
+- 💞️ I’m currently creating a website for my "Course en Cours" team named "Les Chevaliers de Lemonnier". 
+- 📫 You can reach me at antonin.alle.crq@gmail.com
