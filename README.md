@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Anto2502
 - 👀 I’m interested in video game industry
-- 🌱 I’m currently studying in Institut Lemonnier
-- 💞️ I’m currently creating a website for my "Course en Cours" team named "Les Chevaliers de Lemonnier". 
-- 📫 You can reach me at antonin.alle.crq@gmail.com
+- 🌱 I’m currently studying in Institut Lemonnier, in Caen
+- 💞️ I’m currently creating a video game as my final project for this year
+- 📫 You can reach me at antonin.alle.crq@gmail.com or as antonin2502 on Discord
